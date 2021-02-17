@@ -3,7 +3,7 @@
 ## Resumo
 Esta aplicação foi criada com o auxílio do prof. Nelio Alves por meio de seu curso de C# na plataforma Udemy.
 Trata-se de uma simulação de CRUD de dados de vendedores de diversos departamentos. É um caso anêmico de negócio
-para pôr em prática o uso do ambiente .NET e da linguagem C#.
+para colocar em prática o uso do ambiente .NET e da linguagem C#.
 
 ### Quanto ao Banco de Dados
 Usei Docker para base de dados de teste.
